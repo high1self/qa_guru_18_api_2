@@ -1,0 +1,7 @@
+requests==2.28.2
+pytest==7.2.1
+voluptuous==0.13.1
+pytest-voluptuous== 1.2.0
+selene==2.0.0b16
+python-dotenv==0.21.0
+allure-pytest==2.12.0
